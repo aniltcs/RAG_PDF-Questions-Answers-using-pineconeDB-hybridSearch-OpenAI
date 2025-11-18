@@ -47,6 +47,5 @@ qdrant-client
 crewai[rags_chromadb]
 crewai[litellm]
 pinecone
-pinecone-client
 pinecone-text
 pinecone-notebooks
